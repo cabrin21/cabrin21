@@ -1,18 +1,72 @@
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itsmekaa&theme=transparent&short_numbers=true&mode=daily" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=180&section=header&text=KYARA-MD-V3&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20Performance%20WhatsApp%20Bot&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmekaa&theme=github-compact" width="100%"/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/itsmekaa/itsmekaa/main/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=Multi-Device+WhatsApp+Bot;250%2B+Commands+%26+Counting;Plugin+Architecture+%7C+Auto-Loading;Deploy+Anywhere+in+Minutes)](https://git.io/typing-svg)
 
-<br/>
+<p align="center">
+  <img src="https://i.ibb.co/0ygGcrkP/jawadmd.jpg">
+</p>
 
-[![Version](https://img.shields.io/badge/Version-3.0.0-blue?style=for-the-badge&logo=github)](https://github.com/cabrin21/KYARA-MD-V3)
-[![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Baileys](https://img.shields.io/badge/Baileys-7.x-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
-[![Stars](https://img.shields.io/github/stars/cabrin21/KYARA-MD-V3?style=for-the-badge&logo=starship&color=gold)](https://github.com/cabrin21/KYARA-MD-V3/stargazers)
-[![Forks](https://img.shields.io/github/forks/cabrin21/KYARA-MD-V3?style=for-the-badge&logo=git&color=orange)](https://github.com/cabrin21/KYARA-MD-V3/network/members)
+<h1 align="center">Killua official</h1>
+
+<p align="center">
+  Backend Developer • Bot Developer
+</p>
+
+<p align="center">
+  <a href="https://swiper.my.id">Website</a> •
+  <a href="https://api.fvckers.my.id">API</a> •
+  <a href="https://whatsapp.com/channel/0029VbCHB1eDjiOUGG4OCS2t">Channel</a>
+</p>
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Baileys](https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+## 🚀 About Me
+
+- 🤖 WhatsApp Bot Developer
+- 📡 REST API Developer
+- ⚡ Node.js Enthusiast
+
+---
+
+## 🛠 Tech Stack
+
+```txt
+JavaScript
+Node.js
+Express.js
+Baileys
+Bot Telegram
+Bot Whatsapp
+HTML
+CSS
+```
+
+---
+
+## 📫 Contact
+
+Telegram:
+```txt
+@cabrinox
+```
+
+Website:
+```txt
+https://cabrinomovieo.vercel.app/
+```
+
+---
+
+<p align="center">
+  Made with ❤️ by Killua official
+</p>
 
 <br/>
 
